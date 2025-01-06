@@ -6,7 +6,7 @@ public class PrimeiraClasse {
 		String ambiente = args[0];
 
 			System.out.println(ambiente);
-		
+			System.out.println(ambiente);
 	
 	}
 
